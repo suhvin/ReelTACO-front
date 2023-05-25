@@ -25,9 +25,9 @@ const SeekerTalkContainer = styled.div`
 
 const Talk = styled.div`
   display: inline-block;
-  max-width: 200px;
+  max-width: 80%;
   padding: 4px 10px;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
   margin-right: 0px;
   border-radius: 4px;
   background-color: #edf2f7;
